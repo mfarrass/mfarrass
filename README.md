@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muhammad Farras</h1>
-<h3 align="center">A passionate Web Developer from Depok, Indonesia 🇮🇩</h3>
+<h1 align="center">Hi 👋, I'm Muhammad Farras</h1> <h3 align="center">A passionate Web Developer from Depok, Indonesia</h3>
 
 ---
 
@@ -26,7 +25,7 @@
 
 ### 🤝 OPEN FOR COLLABORATION
 
-I'm open to freelance projects and collaborations in web development.
+I'm available for freelance work and open to collaborating on web development projects.
 If you have a project or idea, let's build it together 🚀
 
 ---
