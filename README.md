@@ -8,7 +8,7 @@
 ---
 
 ### 🚀 NOW
-- - ⚙️ I use daily: `.php`, `.asp`, `.js`, `.html`, `.css`,
+- ✨ Currently developing and maintaining web projects using **Laravel** and **ASP (VBScript)**
 - 🔥 Focused on backend performance & scalable systems
 - 📚 Exploring more about **Open Source** and clean architecture
 
@@ -24,23 +24,6 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</p>
-
----
-
-### 📊 GITHUB STATS
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="160"/>
-</p>
-
----
-
-### 🔥 STREAK STATS
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" />
 </p>
 
 ---
