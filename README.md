@@ -4,7 +4,6 @@
 
 ### 🚀 NOW
 - ✨ Currently developing and maintaining web projects using **Laravel** and **ASP (VBScript)**
-- 🔥 Focused on backend performance & scalable systems
 - 📚 Exploring more about **Open Source** and clean architecture
 
 ---
